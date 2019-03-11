@@ -1,0 +1,9 @@
+.clockdisplay{
+    border: solid black 40px;
+    height: 75px;
+    width: 60px;
+    position: relative;
+}
+.back{
+    background-color: red;
+}
